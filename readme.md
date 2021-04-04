@@ -6,5 +6,5 @@
 
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCmsd0YylgJy4z_JVhdrqFvQ)](https://www.youtube.com/channel/UCmsd0YylgJy4z_JVhdrqFvQ)
 
-### About me
+### Sobre mim
 Sou desenvolvedor em {backend:(laravel, nodejs, spring), frontend:(reactjs, ionic, angular) e mobile(ionic, react native, android nativo)}.
